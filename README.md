@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ScootNoot
+- 👀 I’m interested in Python, JS, Golang and PHP
+- 🌱 I’m currently learning Golang and PHP
+- 💞️ I’m looking to collaborate on any cyber security project
+- 📫 How to reach me Discord: Scoot#5519
